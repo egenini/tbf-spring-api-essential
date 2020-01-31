@@ -2,7 +2,7 @@ package ar.com.tbf.api.essential.utils;
 
 import org.springframework.data.domain.Page;
 
-import ar.com.tbf.common.share.RequestResponseAccessibility;
+import ar.com.tbf.web.generic.filter.RequestResponseAccessibility;
 
 public class PageHeader {
 
