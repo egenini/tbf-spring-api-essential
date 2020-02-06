@@ -27,9 +27,10 @@
 	
 	<dependencies>
 		<dependency>
-		    <groupId>com.github.egenini</groupId>
+		    <!-- <groupId>com.github.egenini</groupId> -->
+		    <groupId>tbf-spring</groupId>
 		    <artifactId>tbf-spring-ui-api-commons</artifactId>
-		    <version>5.0.0</version>
+		    <version>6.2.0</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/javax.servlet/servlet-api -->
 		<dependency>
