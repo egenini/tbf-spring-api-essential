@@ -30,7 +30,7 @@
 		    <!-- <groupId>com.github.egenini</groupId> -->
 		    <groupId>com.github.egenini</groupId>
 		    <artifactId>tbf-spring-ui-api-commons</artifactId>
-		    <version>6.3.0</version>
+		    <version>6.3.1</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/javax.servlet/servlet-api -->
 		<dependency>
