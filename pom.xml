@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>tbf-spring</groupId>
 	<artifactId>tbf-spring-api-essential</artifactId>
-	<version>5.1.1</version>
+	<version>5.1.2</version>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
 		<plugins>
@@ -30,7 +30,7 @@
 		    <!-- <groupId>com.github.egenini</groupId> -->
 		    <groupId>com.github.egenini</groupId>
 		    <artifactId>tbf-spring-ui-api-commons</artifactId>
-		    <version>6.4.0</version>
+		    <version>6.4.1</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/javax.servlet/servlet-api -->
 		<dependency>
@@ -44,11 +44,6 @@
 		    <groupId>org.springframework.boot</groupId>
 		    <artifactId>spring-boot-starter-data-rest</artifactId>
 		    <version>2.1.8.RELEASE</version>
-		</dependency>
-		<dependency>
-			<groupId>com.github.egenini</groupId>
-			<artifactId>tbf-web-shared-info</artifactId>
-			<version>1.0.0</version>
 		</dependency>
 	</dependencies>
 </project>
