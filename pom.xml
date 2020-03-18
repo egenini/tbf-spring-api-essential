@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>tbf-spring</groupId>
 	<artifactId>tbf-spring-api-essential</artifactId>
-	<version>5.1.6</version>
+	<version>5.1.7</version>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
 		<plugins>
