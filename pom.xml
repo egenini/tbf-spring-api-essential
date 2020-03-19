@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>tbf-spring</groupId>
 	<artifactId>tbf-spring-api-essential</artifactId>
-	<version>5.1.7</version>
+	<version>5.1.8</version>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
 		<plugins>
@@ -30,7 +30,7 @@
 		    <!-- <groupId>com.github.egenini</groupId> -->
 		    <groupId>com.github.egenini</groupId>
 		    <artifactId>tbf-spring-ui-api-commons</artifactId>
-		    <version>6.4.5</version>
+		    <version>6.4.6</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/javax.servlet/servlet-api -->
 		<dependency>
